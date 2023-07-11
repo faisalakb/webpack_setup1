@@ -1,1 +1,2 @@
-# webpack_setup1
+# webpack_setup
+Build a simple yet powerful webpack boilerplate
